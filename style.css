@@ -1,0 +1,16 @@
+header {
+    color: black;
+    background-color: bisque;
+}
+.main {
+    background-color: aqua;
+}
+section {
+    background-color: yellowgreen;
+}
+footer {
+    background-color: brown;
+}
+.section {
+    background-color: yellowgreen;
+}
